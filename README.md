@@ -6,6 +6,7 @@ The URL:
 
 <a href="https://397795944.github.io" target="_blank">https://397795944.github.io</a>
 
+[GitHub Home](https://github.com/){:target="_blank"}
 
 [//]: # ( 注释2 )
 <div style='display: none'>
